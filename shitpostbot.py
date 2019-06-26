@@ -20,7 +20,7 @@ description = '''A fun bot to shitpost your server!'''
 
 bot = commands.Bot(command_prefix='!!!', description=description)
 bot.remove_command('help')
-token = 'NTkzNDMyMDIwMTgxNTgxODY1.XRNyqg.0FwGph4wkm_IwUC_uBW4-fPVyNM' # copy paste your token here to run the bot<3
+token = '' # copy paste your token here to run the bot<3
 
 
 @bot.event
