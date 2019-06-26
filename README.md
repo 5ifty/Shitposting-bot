@@ -21,7 +21,7 @@ Their discord server - [Discord.py Server](https://discord.gg/r3sSKJJ)
 1)Go to the Discord Dev Portal [here](https://discordapp.com/developers/applications/)
 and make an application. ![image](https://i.imgur.com/wwhqPiq.png)
 
-2) Make it into a **Bot Account** ![image](https://i.imgur.com/8YXhaw5.gifv)
+2) Make it into a **Bot Account** ![image](https://i.imgur.com/laRT8ET.png)
 
 3) Copy and Paste your token into the bot file (you'll see the variable you need to copy it into) here [bot](https://github.com/5ifty/Shitposting-bot/blob/master/shitpostbot.py)
 
