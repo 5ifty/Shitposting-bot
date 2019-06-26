@@ -45,5 +45,5 @@ type (in a new console) - pip install (moduel name). This will fix any errors.
 
 Join my discord server - [here](https://discord.gg/jAaSeEx)
 This bot is made for fun and the memes of it.Use for whatever purposes you want but please 
-1)Credit and 2)Keep updated on the docs, 
+1)Credit me for my work and 2)Keep updated on the docs, 
 *I wont be updating this often.*
