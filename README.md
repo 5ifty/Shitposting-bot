@@ -22,18 +22,22 @@ and make an application. ![image](https://i.imgur.com/wwhqPiq.png)
 
 2) Make it into a **Bot Account** ![image](https://i.imgur.com/3nZYzHA.png)
 
-3) Copy and Paste your token into the bot file (you'll see the variable you need to copy it into) here [bot](https://github.com/5ifty/Shitposting-bot/blob/master/shitpostbot.py)
+3) Copy and Paste your token into the bot file (you'll see the variable you need to copy it into) here [bot](https://github.com/5ifty/Shitposting-bot/blob/master/shitpostbot.py) 
+![image](https://i.imgur.com/AfIGWh8.png)
+**Do not give your token to anyone, incase of leak reset it and update in the token in the file!**
 
 4)Open up a CMD and go to the file location. E.g. > cd Desktop > cd shitpostbot > python shitpostbot.py
 
 5)Thats it, you're good to go! GLHF<3
 
-## How to install moduals.
+## How to install modules.
 1) Open up a CMD and go to the folder where this file is or where the **Requirements.txt** is.
 
 2) Then type **pip install -r requirements.txt**
 
-3)This **Should** import/download all of the moduels you need.
+3)This will import/download all of the moduels you need.
+incase it doesn't the console will display what moduel is missing
+type (in a new console) - pip install (moduel name). This will fix any errors.
 
 
 # Info 
