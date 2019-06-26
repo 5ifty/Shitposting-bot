@@ -2,7 +2,8 @@
 Open source bot for discord hack week.
 # THIS BOT IS NOT MADE FOR GETTING BIG. 
 This bot is a small bot, not one for getting big.
-If you want a bot which goes over cogs, look at this[here](https://github.com/AlexFlipnote/discord_bot.py)
+This bot doesn't feature cogs(a groundbreaking update to discord.py)
+If you want a bot which goes over cogs, look at this [here](https://github.com/AlexFlipnote/discord_bot.py)
 
 # Requirements
 Python3.6 and above. [Download Python](https://www.python.org/downloads/)
